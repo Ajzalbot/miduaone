@@ -35,7 +35,7 @@ Very Sempil Bot Auto Filter bot
 
 
 ###ANNA BEN REPO
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/anna-ben-repo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajzalbot/miduaone)
 ### Hard Way
 
 ```bash
@@ -94,7 +94,7 @@ logger - Get log file
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/Pro_editor_tg)
+Contact Me On [Telegram](https://t.me/ajzalk)
 
 [Update Channel](https://t.me/Team_annaben)
 
